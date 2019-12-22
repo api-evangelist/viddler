@@ -1,5 +1,5 @@
 {
-    "id": "12fe0bc4196f28251d7b3e7134539f8c",
+    "id": "99878d80ac330ff33e7cf130391c1d29",
     "name": "Viddler  API",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "4f809bbf7fe7c8c40948af68f6ff7ad7",
+            "id": "0ddf2c4f7b865c5828778b9df7dfba39",
             "name": "Api Echo",
             "url": "httpsapi.viddler.com\/api\/v2viddler.api.echo",
             "description": "This method is used for testing purposes only. Simply call this method to make sure the API is responding fine.",
@@ -37,11 +37,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "e0e975ebc4a6716f4b50ed99bc46f464",
+            "id": "fb0a3b5171abfa382504fe825cc00c91",
             "name": "Encoding Cancel",
             "url": "httpsapi.viddler.com\/api\/v2viddler.encoding.cancel",
             "description": "Cancel encoding a specific video file.",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "1a8c1f4875e4674f621c7cc024fa2088",
+            "id": "cc24ed3c334aa5aa4a446e7318450ab4",
             "name": "Encoding GetSettings",
             "url": "httpsapi.viddler.com\/api\/v2viddler.encoding.getSettings",
             "description": "Returns the current encoding options for an account.",
@@ -106,11 +106,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "964380184007e32c0b606df45285d2b0",
+            "id": "3f93686af4c1e8fac6e941ac348b039a",
             "name": "Encoding GetStatus2",
             "url": "httpsapi.viddler.com\/api\/v2viddler.encoding.getStatus2",
             "description": "This method is the same as viddler.encoding.getStatus except that it groups files better for users to easily find what they are looking for. We could not easily update the previous method without causing complications with external applications.",
@@ -144,11 +144,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "e62de4d52f34b86c93fea648d22a965c",
+            "id": "355deabc3d4771f2ea358f1b5a24f51f",
             "name": "Logins Add",
             "url": "httpsapi.viddler.com\/api\/v2viddler.logins.add",
             "description": "Adds a new login to user account when the main account has multi-user sign-on enabled. You must have this feature enabled for your account. Please call us at 1-888-444-1119 to enable for you account.",
@@ -343,11 +343,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "4838f9ef749bf36fcd927f817e8ae895",
+            "id": "16478352ad615729163bc75ab1d138ee",
             "name": "Logins Get",
             "url": "httpsapi.viddler.com\/api\/v2viddler.logins.get",
             "description": "Return the current permissions for a specific user.",
@@ -381,11 +381,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "073f2d995283ed1d52be359137e10711",
+            "id": "fa4ce1956e61cd1e34175c401278e12a",
             "name": "Logins Update",
             "url": "httpsapi.viddler.com\/api\/v2viddler.logins.update",
             "description": "Updates a current login.",
@@ -580,11 +580,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "c01eafda938b885b29af27230761ee25",
+            "id": "a360556443237178a14a4c2b76f4b978",
             "name": "Playlists Create",
             "url": "httpsapi.viddler.com\/api\/v2viddler.playlists.create",
             "description": "Create a playlist. Regular playlist represents user defined videos. Smart playlist updates in realtime returning videos matching selected filtering rules.",
@@ -702,11 +702,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "a2f105cbacd2e232c9a1331844c08eac",
+            "id": "e76829182551b84974b330997b12c4c5",
             "name": "Playlists Delete",
             "url": "httpsapi.viddler.com\/api\/v2viddler.playlists.delete",
             "description": "Delete a playlist.u00a0Caution: This operation cannot be undone.",
@@ -740,11 +740,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "58558512f981268301e9f556bc350ebd",
+            "id": "94329e7009ae8c86ebb83cbcc2356efa",
             "name": "Playlists List",
             "url": "httpsapi.viddler.com\/api\/v2viddler.playlists.list",
             "description": "List all playlists for an account.",
@@ -785,11 +785,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "a310254895755251890ebc7e89a3809d",
+            "id": "ec5cea4c62f3aed569f5e573226c7c31",
             "name": "Playlists MoveVideo",
             "url": "httpsapi.viddler.com\/api\/v2viddler.playlists.moveVideo",
             "description": "Reorder videos in regular playlist.",
@@ -837,11 +837,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "8baaf3869f38cc4911d0a9bf262b4ef2",
+            "id": "ed8c4b5285f021cd7bf53389f80680a1",
             "name": "Resellers GetSubaccounts",
             "url": "httpsapi.viddler.com\/api\/v2viddler.resellers.getSubaccounts",
             "description": "List all subaccounts under your account. Only applies to reseller accounts. Other accounts do not have access to this method.",
@@ -889,11 +889,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "366fc39cb24954935f50361e277d50dd",
+            "id": "ff33cb1f0cfb2ff9fb1c11f3a44c29fe",
             "name": "Users GetPlayerBranding",
             "url": "httpsapi.viddler.com\/api\/v2viddler.users.getPlayerBranding",
             "description": "Returns your player branding configuration.",
@@ -920,11 +920,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "dda0f16886fecfce466e62bb5d0e8df7",
+            "id": "294e7f55bb7e7d58a02a6edcc3688bc6",
             "name": "Users GetProfile",
             "url": "httpsapi.viddler.com\/api\/v2viddler.users.getProfile",
             "description": "Get the public information for a profile. Can only get profile information for public profiles.",
@@ -958,11 +958,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "eef9658b48d21d69d0ab667ec7abe8bd",
+            "id": "d26b25bc4049743c1a93b5274ad7dc32",
             "name": "Users GetSettings",
             "url": "httpsapi.viddler.com\/api\/v2viddler.users.getSettings",
             "description": "Return account settings.",
@@ -989,11 +989,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "f6bcb833bf2438877bc9e0fe572b7bfc",
+            "id": "6fc2e2d4d46feb3e18bcbfbea764d54a",
             "name": "Users SetPlayerBranding",
             "url": "httpsapi.viddler.com\/api\/v2viddler.users.setPlayerBranding",
             "description": "Sets your player branding options. All options are optional other than your sessionid. Color formats are inu00a0hexadecimalu00a0format with preceding pound sign (IE: #rrggbb)",
@@ -1153,11 +1153,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "1568784580481bccb94f4989ce9fa249",
+            "id": "6320fdf9f54240ed00eff621584e7a1c",
             "name": "Users SetProfile",
             "url": "httpsapi.viddler.com\/api\/v2viddler.users.setProfile",
             "description": "Update your profile information.",
@@ -1198,11 +1198,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "cd9533d34e7ef90fe1c4053ee6db838c",
+            "id": "57f83d489f9d766142fe214173aea38e",
             "name": "Videos AddClosedCaptioning",
             "url": "httpsapi.viddler.com\/api\/v2viddler.videos.addClosedCaptioning",
             "description": "Add new closed captioning file for a specific video. All uploaded closed captioning files are enabled by default. The first uploaded file is default for a video.",
@@ -1257,11 +1257,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "1f14267174ed68ad4b3b5bc7eca3b289",
+            "id": "adfeab857a42422fe1d52ba671c83d3e",
             "name": "Videos Comments Get",
             "url": "httpsapi.viddler.com\/api\/v2viddler.videos.comments.get",
             "description": "Get comments for a video. If logged in and querying comments for own video &#8211; all comments with any moderation status will be returned. If quering comments as logged out or for not owned video &#8211; only approved comments will be returned if the video itself is public.",
@@ -1316,11 +1316,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "46f061e499f7971ce9d1221ffa6ad79a",
+            "id": "88a52f06f1c902079760ae538cd89302",
             "name": "Videos DelClosedCaptioning",
             "url": "httpsapi.viddler.com\/api\/v2viddler.videos.delClosedCaptioning",
             "description": "Remove an existing closed captioning file.",
@@ -1354,11 +1354,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "b12a126253f6dd08cfa2064c9c0d98d6",
+            "id": "c6c8a7dd46b231a6e4e6437be94ff104",
             "name": "Videos Delete",
             "url": "httpsapi.viddler.com\/api\/v2viddler.videos.delete",
             "description": "Delete a video.",
@@ -1392,11 +1392,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "3d809774a8ee9386221b55a9b4e38b48",
+            "id": "24285f8fe8d6d9ba8f37d0167123815e",
             "name": "Videos EnableAds",
             "url": "httpsapi.viddler.com\/api\/v2viddler.videos.enableAds",
             "description": "Turn ads off for specified videos.",
@@ -1430,11 +1430,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "235f01a27a64fd169fd1a42fe95eaee5",
+            "id": "47dadfc1e7e9725702c846f145959c58",
             "name": "Videos GetAdsStatus",
             "url": "httpsapi.viddler.com\/api\/v2viddler.videos.getAdsStatus",
             "description": "viddler.videos.getAdsStatusnGET",
@@ -1468,11 +1468,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "051a8491e482ee2535ba674a0c111f98",
+            "id": "f60bc492e4bd5e67b199e65b2bbd6f4f",
             "name": "Videos GetEmbedCodeTypes",
             "url": "httpsapi.viddler.com\/api\/v2viddler.videos.getEmbedCodeTypes",
             "description": "Return a list of the embed code types for your account.",
@@ -1499,11 +1499,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "f44a7adc3e5af42efca27c0dd6e97c1b",
+            "id": "024717c044b9a4fdbdbb9ec2c38176b1",
             "name": "Videos GetRecordToken",
             "url": "httpsapi.viddler.com\/api\/v2viddler.videos.getRecordToken",
             "description": "Return a record token to use with Viddler&#8217;s Flash video recorder.",
@@ -1530,11 +1530,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "0a4ce354d88293cd7d4fb13dae0be493",
+            "id": "5db0ab6e421ccc41c723844fa566fda2",
             "name": "Videos PrepareUpload",
             "url": "httpsapi.viddler.com\/api\/v2viddler.videos.prepareUpload",
             "description": "Returns the end-point and token for a new upload session.",
@@ -1568,11 +1568,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "1a0438f76a543dbbf34466ec50044f87",
+            "id": "a7841e80873538f5418dbdecac3518f5",
             "name": "Videos SetClosedCaptioning",
             "url": "httpsapi.viddler.com\/api\/v2viddler.videos.setClosedCaptioning",
             "description": "Update closed captioning details on a previously uploaded file.",
@@ -1627,11 +1627,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         },
         {
-            "id": "c7946c9ebf877d7486a93d7d74e2937f",
+            "id": "7ae6798ed3e61eaa7551c90cc4081545",
             "name": "Videos UploadProgress",
             "url": "httpsapi.viddler.com\/api\/v2viddler.videos.uploadProgress",
             "description": "Return the status of an upload.",
@@ -1665,7 +1665,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "12fe0bc4196f28251d7b3e7134539f8c",
+            "collectionId": "99878d80ac330ff33e7cf130391c1d29",
             "rawModeData": ""
         }
     ]
